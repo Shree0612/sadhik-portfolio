@@ -17,7 +17,7 @@ const experiences = [
   },
 ];
 
-const Experience = () => {
+const experience = () => {
   return (
     <motion.section
       id="experience"
