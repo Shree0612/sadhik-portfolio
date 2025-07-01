@@ -45,4 +45,4 @@ const experience = () => {
   );
 };
 
-export default Experience;
+export default experience;
