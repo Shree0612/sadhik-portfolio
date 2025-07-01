@@ -18,9 +18,9 @@ const projects = [
     demo: "https://food-delivery-demo.netlify.app"
   },
   {
-    name: "Student Job Portal (Collegemate)",
+    name: "LMS Module (Collegemate)",
     description:
-      "Job portal for students to explore internships and full-time jobs. Built during internship.",
+      "Developed an LMS module for Collegemate.io using React and Firebase, focusing on course tracking and user interaction..",
     tech: "React, Tailwind CSS, Firebase",
     github: "https://github.com/your-username/collegemate-job-portal",
     demo: "https://collegemate-demo.netlify.app"
