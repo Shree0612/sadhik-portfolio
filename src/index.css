@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  body {
+    @apply text-white; /* makes your default text white */
+    background: radial-gradient(
+      circle at center,
+      #60A5FA 0%,    /* light‑blue center (Tailwind blue‑400) */
+      #1E3A8A 100%   /* dark navy edges (Tailwind blue‑900) */
+    );
+    background-attachment: fixed;
+  }
+}
+
